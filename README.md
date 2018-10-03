@@ -5,3 +5,9 @@ A cheat sheet for how to setup a jenkinsfile for a declarative pipeline. Example
 Declarative vs Scripted Differences
 -------------
 * Scripted pipelines are wrapped within the `pipeline {}` block
+
+
+Declarative Pipeline Features
+-------------
+* Declarative pipelines may use `script {}` blocks to run scripted pipeline code
+  
