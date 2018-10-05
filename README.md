@@ -9,3 +9,5 @@ A cheat sheet for how to setup a jenkinsfile for a declarative pipeline. Example
 ## Declarative Pipeline Features
 
 * Declarative pipelines may use `script {}` blocks to run scripted pipeline code
+  
+* Cannot have empty code blocks.
